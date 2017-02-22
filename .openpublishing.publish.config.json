@@ -17,20 +17,6 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
-    },
-    {
-      "docset_name": "aspnet-core-conceptual",
-      "build_source_folder": "aspnetcore",
-      "build_output_subfolder": "aspnet/core",
-      "locale": "pt-br",
-      "version": 0,
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
